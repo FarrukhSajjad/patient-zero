@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: M_ENV_stone_rock
+  m_Shader: {fileID: 4800000, guid: fd5ddc7e7ba898c448b43a597f744cd8, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _BaseNormal:
+        m_Texture: {fileID: 2800000, guid: b3aa2f6a053d16641bd15b9c9c4bea62, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BaseTexture:
+        m_Texture: {fileID: 2800000, guid: c591a9a7fc903fb468f61aa25d2fb408, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TopNormal:
+        m_Texture: {fileID: 2800000, guid: 2432b7aa3745c434e8977f67e2d99e97, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TopTexture:
+        m_Texture: {fileID: 2800000, guid: 984a7ac8d2cba0f43ac4594139ffc46d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+    - Vector1_34F2C63E: 0
+    - Vector1_4B07FDE0: 8.3
+    - Vector1_6190DF09: 0
+    - Vector1_725B1ED: 1
+    - Vector1_798533FC: 1
+    - Vector1_8C04E36: 0.51
+    - Vector1_B9A92598: 0
+    - _AlphaCutoff: 0.5
+    - _BaseTextureSaturation: 1
+    - _CoverageAmount: -1
+    - _CoverageBaseScale: 0.85
+    - _CoverageBaseScaleGlobal: 0
+    - _CoverageFalloff: 0.01
+    - _CoverageNoiseScale: 0
+    - _NormalStrength: 1
+    - _Smoothness: 0
+    - _TopTextureTiling: 0.5
+    m_Colors:
+    - Color_41B01419: {r: 1, g: 1, b: 1, a: 0}
+    - _BaseTextureTint: {r: 1, g: 1, b: 1, a: 0}
+    - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
+    - _TopTextureTint: {r: 1, g: 1, b: 1, a: 0}
+  m_BuildTextureStacks: []
