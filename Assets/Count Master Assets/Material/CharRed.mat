@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: CharRed
+  m_Shader: {fileID: 4800000, guid: f90629f0d3835b944bf3a4d8dd640079, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Matcap:
+        m_Texture: {fileID: 2800000, guid: e435cf3ce0baa2d42ba2e816efb11163, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _Emission: 0.198
+    - _Matcap_Intensity: 0.558
+    - _ShadowDirX: -0.424
+    - _ShadowDirZ: -0.383
+    - _ShadowFloorY: 0.01
+    - __dirty: 0
+    m_Colors:
+    - _Color: {r: 1, g: 0.20334104, b: 0, a: 1}
+    - _ShadingColor: {r: 0.6509434, g: 0, b: 0, a: 1}
+    - _ShadowColor: {r: 0.7971698, g: 0.8542158, b: 1, a: 1}
+  m_BuildTextureStacks: []
